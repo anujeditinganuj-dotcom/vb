@@ -1,0 +1,9 @@
+{
+  "name": "vidbunker-resolver",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel proxy that resolves vidbunker.in watch links to a direct video, fronting the existing vidbunker-dl.dxsdl1.workers.dev worker.",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
